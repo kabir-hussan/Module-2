@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+.blog{
+    background-color: aquamarine;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    /* border-top: 10px solid salmon; */
+    /* border-bottom: 10px dotted salmon;
+     */
+     margin: 10px;
+
+     padding: 50px;
+}
